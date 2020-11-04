@@ -1,2 +1,3 @@
 ; Public definitions for:
-;   void pokew(unsigned int segment, unsigned int offset, unsigned int data)
+;   void outportb(unsigned int port, unsigned char data);
+;   unsigned char inportb(unsigned int port);
