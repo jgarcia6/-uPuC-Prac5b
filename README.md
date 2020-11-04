@@ -1,2 +1,2 @@
-# uPuC-Prac4  
-x86 Memory Mapped IO and System Clock Interrupt Assigment
+# uPuC-Prac5b  
+x86 PPI-8255 assigment
